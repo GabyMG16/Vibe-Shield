@@ -1,0 +1,2 @@
+VibeShield is an embedded system that detects unwanted vibrations and cancels them in real time using inverse-phase actuators. It’s designed to reduce mechanical oscillations in small devices, 3D printers, instruments, or art installations.
+The system reads motion data from an MPU6050 accelerometer, computes a counter-vibration signal on a Radxa Rock 2A, and drives vibration motors via an L298 driver. A 7-inch HDMI display shows real-time vibration amplitude and system status.
